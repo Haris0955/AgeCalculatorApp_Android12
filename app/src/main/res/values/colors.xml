@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Russet">#BC6C25</color>
+    <color name="Cream">#FEFAE0</color>
+    <color name="Copper">#DDA15E</color>
+    <color name="Dark_Charcoal">#283618</color>
+    <color name="Olive_Green">#606C38</color>
+
+    <color name="your_primary_color">#3F51B5</color>
+    <color name="your_primary_dark_color">#303F9F</color>
+    <color name="your_accent_color">#FF4081</color>
+
+
+</resources>
